@@ -1,0 +1,7 @@
+---
+tags:
+  - hindrance
+  - Minor
+---
+Having a death wish doesn’t mean your adventurer is suicidal — he might just think his life is worth less than some noble but clearly deadly goal. 
+Those with a Death Wish don’t throw their lives away for no reason, but when there’s a chance to complete a goal they do anything — and take any risk—to achieve it.

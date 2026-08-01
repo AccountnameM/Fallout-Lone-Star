@@ -1,0 +1,6 @@
+---
+tags:
+  - hindrance
+  - Minor
+---
+This curmudgeon is ill-tempered and disagreeable. He has trouble doing anything kind for anyone else, must be paid for his troubles, and doesn’t accept awards or favors graciously. Besides the obvious roleplaying issues, Mean characters subtract 1 from Persuasion rolls.

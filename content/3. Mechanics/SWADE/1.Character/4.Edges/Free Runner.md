@@ -1,0 +1,3 @@
+**REQUIREMENTS**: Novice, Agility d8+, Athletics d6+
+
+Your character practices “parkour” or is just very skilled at running, jumping, swinging, scampering up walls, and over obstacles. As long as there are obstacles she can bound on, bounce off, or swing on, she moves at her full Pace on Difficult Ground when on foot. She also adds +2 to her Athletics rolls when climbing and in foot Chases (see [[The AdventureTool kit#Chases & Vehicles|Chases & Vehicles]] page 113).

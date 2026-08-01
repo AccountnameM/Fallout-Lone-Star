@@ -1,0 +1,7 @@
+---
+tags:
+  - hindrance
+  - Minor
+---
+Due to upbringing, lack of exposure, or pure bad luck, some individuals are “all thumbs” when it comes to mechanical or technological devices.
+All Thumbs inflicts a −2 penalty when using mechanical or electrical devices. If he rolls a Critical Failure while using such a device (and it doesn’t already have a built-in effect), it’s broken. If the GM feels it’s appropriate, it can be fixed with a Repair roll and 1d6 hours.
