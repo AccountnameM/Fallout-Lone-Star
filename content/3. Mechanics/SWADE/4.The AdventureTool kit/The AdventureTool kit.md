@@ -40,7 +40,7 @@ Consider these general impressions with no particular game effect. They help bot
 | 9                  | Bright      | 19  | Cowardly    |
 | 10                 | Young       | 20  | Heroic      |
 ### Allies & Advancement
-Allies can improve their abilities as well. See [[5.Advancement|Advancement]] on page 54.
+Allies can improve their abilities as well. See [[Advancement|Advancement]] on page 54.
 
 ### Ammo
 Keeping track of ammo for all your allies can be difficult. Here’s an easy and dramatic way to handle this problem. 
@@ -453,7 +453,7 @@ When the temperature reaches 90 degrees or more, heroes must make Vigor rolls ev
 ## Hunger
 Average-size humans need about 1,500 calories of reasonably nutritious food per day to avoid the effects of hunger. If sufficient sustenance isn’t available, a character begins to suffer from hunger. 
 After 24 hours without enough food, the victim must make a Vigor roll. Subtract 1 if the individual has less than half the required calories, and −2 if he has no food at all. Failure means the character gains a Fatigue level.
-See the [[3.Traits#Survival (Smarts)|Survival]] skill, page 35, when a character wants to hunt or scrounge for food from the local environment.
+See the [[Traits#Survival (Smarts)|Survival]] skill, page 35, when a character wants to hunt or scrounge for food from the local environment.
 **Death**: An Incapacitated character dies from hunger 3d6 hours later. 
 **Recovery**: The victim must have at least a half day’s food to recover.
 
@@ -478,7 +478,7 @@ Most people need a minimum of six hours’ sleep out of every 24. A character wh
 ## Thirst
 An average-sized human requires two quarts of water a day. This requirement is doubled in very dry conditions (such as the desert) or areas of heat and high humidity (the jungle) as the character perspires constantly and begins to dehydrate. 
 If enough water isn’t available, the hero begins to suffer from dehydration. A day after he can’t get enough water, he must make a Vigor roll every eight hours (every four hours in a very hot or humid environment). Subtract 2 if he has less than half the water he needs in that period, and −4 if he has no water at all. Failure incurs a level of Fatigue and Critical Failure means he’s Exhausted. 
-See the [[3.Traits#Survival (Smarts)|Survival]] skill on page 35 when a character wants to search for water from the local environment. 
+See the [[Traits#Survival (Smarts)|Survival]] skill on page 35 when a character wants to search for water from the local environment. 
 **Recovery**: Characters recover Fatigue levels normally after receiving sufficient water. 
 **Death**: An individual Incapacitated by thirst perishes after 2d6 hours.
 

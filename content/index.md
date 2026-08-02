@@ -24,10 +24,10 @@ The year is 2300, 223 years after the bombs fell. The Old World died by fire and
 [[Rules Modification]]
 
 # Savage worlds stuff
-[[2.Hindrance|Hindrance]]
-[[4.Edges|Edges]]
-[[3.Traits|Traits]]
-[[5.Advancement|Advancement]]
+[[Hindrance|Hindrance]]
+[[Edges|Edges]]
+[[Traits|Traits]]
+[[Advancement|Advancement]]
 [[Gear|Gear]]
 [[Rules]]
 [[The AdventureTool kit]]

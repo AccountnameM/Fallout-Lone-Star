@@ -6,12 +6,12 @@
 | 3   | 7   | 11  | 15  | 19  | 23  | 27  | 31  | 35  | 39  | 43  | 47  | 51  | 55  |
 | 4   | 8   | 12  | 16  | 20  | 24  | 28  | 32  | 36  | 40  | 44  | 48  | 52  | 56  |
 > [!info]- Attributes
-> [[3.Traits#Agility|Agility]]
-> [[3.Traits#Smarts|Smarts]]
-> [[3.Traits#Spirit|Spirit]]
-> [[3.Traits#Strength|Strength]]
-> [[3.Traits#Vigor|Vigor]]
-> [[3.Traits#Using Attributes|Using Attributes]]
+> [[Traits#Agility|Agility]]
+> [[Traits#Smarts|Smarts]]
+> [[Traits#Spirit|Spirit]]
+> [[Traits#Strength|Strength]]
+> [[Traits#Vigor|Vigor]]
+> [[Traits#Using Attributes|Using Attributes]]
 
 > [!info]- Conditions
 > [[Conditions#Bleeding Out|Bleeding Out]]

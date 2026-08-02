@@ -13,14 +13,14 @@
  - For 1 Hindrance point you can gain another skill point, or gain additional $100 starting funds
 
 
-<u>[[2.Hindrance|Hindrance]]</u>
+<u>[[Hindrance|Hindrance]]</u>
 
-# [[3.Traits#Attributes|Attributes]]
+# [[Traits#Attributes|Attributes]]
 - Attributes start at d4. You have 5 points to distribute among them. Each step costs 1 point.
 - Attributes may not be raised beyond d12 unless your hero’s racial bonus states otherwise.
 
 
-<u>[[3.Traits#Attributes|Attributes]]</u>
+<u>[[Traits#Attributes|Attributes]]</u>
 
 # Skills
 - Athletics, Common Knowledge, Notice, Persuasion, Survival, and Stealth are core skills and start at d4 for free.
@@ -30,7 +30,7 @@
 Note: Electronics and Hacking roped into "Computer" skill.
 
 
-<u>[[3.Traits#Skills|skill]]</u>
+<u>[[Traits#Skills|skill]]</u>
 
 # Derived Statistics
 - Standard Pace is 6″, but may be changed by racial abilities, Edges, or Hindrances.
@@ -43,7 +43,7 @@ Note the amount of armor in parentheses like this Toughness: 11 (2). This means 
 - Each Edge costs 2 Hindrance points.
 
 
-<u>[[4.Edges|Edges]]</u>
+<u>[[Edges|Edges]]</u>
 <u>[[Fallout Edges]]</u>
 
 # Gear

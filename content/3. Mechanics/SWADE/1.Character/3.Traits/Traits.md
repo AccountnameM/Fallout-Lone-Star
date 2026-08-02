@@ -28,14 +28,14 @@ to resist Fatigue effects, and as the basis for the derived stat of Toughness.
 
 ### Using Attributes
 Attributes are used to:
-- Determine how fast skills increase during [[5.Advancement|Advancement]]
-- Limit access to [[4.Edges|Edges]]
+- Determine how fast skills increase during [[Advancement|Advancement]]
+- Limit access to [[Edges|Edges]]
 - Derive secondary statistics such as Toughness or melee damage.
 - Resist effects such as being grappled or counter spells, powers, or social attacks such as Taunt or Intimidation.
 
 ## Skills
 
-Heroes have 12 points to buy skills during character creation. A skill that’s below the linked attribute (noted in parentheses beside the skill name) is cheaper to increase than one that’s at or above it. See page 55 for [[6.Character Creation Summary|Character Creation Summary]] and page 54 for [[5.Advancement|Advancement]]. 
+Heroes have 12 points to buy skills during character creation. A skill that’s below the linked attribute (noted in parentheses beside the skill name) is cheaper to increase than one that’s at or above it. See page 55 for [[Character Creation Summary|Character Creation Summary]] and page 54 for [[Advancement|Advancement]]. 
 Core skills are marked with a red star, and start at d4 for player characters (see page 10). Characters can attempt skills they don’t have but it’s more difficult. See [[Rules#Unskilled Attempts|Unskilled Attempts]] on page 89.
 
 ### Academics (Smarts)
@@ -57,7 +57,7 @@ Characters roll Common Knowledge to know people, places, and things of their wor
 Driving allows a hero to control any powered ground vehicle common to his setting. This includes cars, motorcycles, tanks, and the like. (Bikes and other self-powered transports use Athletics, beast-drawn transports use Riding.) Characters in modern settings where vehicles are ubiquitous don’t need Driving for ordinary travel. Driving rolls are typically only needed in dangerous or stressful conditions, such as [[The AdventureTool kit#Chases & Vehicles|Chases]] (page 113).
 
 ### Electronics (Smarts)
-Electronics allows a hero to use complex or specialized devices such as the control panels on industrial machines or the sensor systems found on spaceships in futuristic settings. Consumer or electronic devices common to the setting don’t require Electronics — Common Knowledge suffices if a roll is required at all. In the modern world, this applies to video recorders, cell phones, etc. Fixing any type of broken electronic device uses the [[3.Traits#Repair (Smarts)|Repair skill]] (see page 34).
+Electronics allows a hero to use complex or specialized devices such as the control panels on industrial machines or the sensor systems found on spaceships in futuristic settings. Consumer or electronic devices common to the setting don’t require Electronics — Common Knowledge suffices if a roll is required at all. In the modern world, this applies to video recorders, cell phones, etc. Fixing any type of broken electronic device uses the [[Traits#Repair (Smarts)|Repair skill]] (see page 34).
 
 ### Faith (Spirit)
 Faith is the arcane skill required for [[Powers#Arcane Background (Miracles)|Arcane Background (Miracles)]], described on page 148.
@@ -113,7 +113,7 @@ A raise grants more detail, such as the direction of a sound or odor or what top
 
 ### Occult (Smarts)
 Occult reflects knowledge and experience with the paranormal most others don’t even believe exists. It can be used to decipher strange pictograms, recall information about supernatural creatures, remember cures for monstrous maladies like lycanthropy or vampirism, or perform rituals. 
-Finding information in a library, newspaper morgue, old tome, the internet, etc., uses the Research skill. As noted there, however, if the investigator’s Occult skill is higher she may use that instead. See **[[3.Traits#Research (Smarts)|Research]]** on page 34.
+Finding information in a library, newspaper morgue, old tome, the internet, etc., uses the Research skill. As noted there, however, if the investigator’s Occult skill is higher she may use that instead. See **[[Traits#Research (Smarts)|Research]]** on page 34.
 
 ### Performance (Spirit)
 A good entertainer can lift the spirits, rally a crowd to action, or simply earn a few bucks from the locals. Specifics depend on the situation, setting, and how well the character is known in the area.
