@@ -22,6 +22,7 @@ The year is 2300, 223 years after the bombs fell. The Old World died by fire and
 [[Fallout Gear]]
 [[3. Mechanics/Fallout/Fallout Races/Index|Fallout Races]]
 [[Rules Modification]]
+[[Fallout Edges]]
 
 # Savage worlds stuff
 [[Hindrance|Hindrance]]
