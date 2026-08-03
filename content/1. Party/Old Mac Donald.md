@@ -1,7 +1,7 @@
 ---
 draft: false
 ---
-Attributes: Agility d12, Smarts d4, Spirit d4, Strength d4, Vigor d6
+Attributes: Agility d12, Smarts d4, Spirit d4, Strength d4, Vigor d8
 
 
 Skills: Athletics d4, Common Knowledge d4, Driving d12, Notice d4, Persuasion d4, Piloting d12, Riding d6, Shooting d12+2, Stealth d4, Survival d4
@@ -20,3 +20,4 @@ Edges: [[Ambidextrous]], [[DeadShot]], [[Ace]]
 | Attributes: Agility d12, Smarts d4, Spirit d4, Strength d4, Vigor d6<br><br>Skills: Athletics d4, Common Knowledge d4, Driving d12, Notice d4, Persuasion d4, Piloting d12, Shooting d12, Stealth d4, Survival d4<br><br>Hindrances: [[Can’t Swim (Minor)]], [[Outsider (Minor & Major)\|Outsider (Major)]], [[Mute (Major)]] Minor can only say 1 sentence, [[Vow (Minor & Major)\|Vow (Major)]], [[Wanted (Minor & Major)\|Wanted (Minor)]]<br><br>Edges: [[Ambidextrous]], [[DeadShot]] | Creation    |
 | [[Ace]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Novice 1    |
 | Riding d6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Novice 2    |
+| Vigor d8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Novice 3    |
