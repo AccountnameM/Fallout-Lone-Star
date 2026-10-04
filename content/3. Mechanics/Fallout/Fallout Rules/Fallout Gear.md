@@ -55,11 +55,11 @@ Weights are rounded up to the nearest 1/10th pound. Caps weigh .1lb for 5.
     <td colspan="8"><strong>Notes</strong>; Revolver ,-2 Notice if concealed.</td>
   </tr>
   <tr>
-    <td>Baretta (9mm)</td>
+    <td>Browning Hi-Power (9mm)</td>
     <td>12/24/48</td>
     <td>2d6 AP1</td>
     <td>1</td>
-    <td>12</td>
+    <td>13</td>
     <td>d4</td>
     <td>2</td>
     <td>$80</td>

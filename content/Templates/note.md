@@ -1,5 +1,5 @@
 ---
-title: insert
+title:
 draft: true
 tags:
   -

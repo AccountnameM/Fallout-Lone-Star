@@ -9,72 +9,63 @@ Lone Star was founded 10 years ago by the prospector Todd Howard after prospecti
 - An scavenging town looking through what was once Dallas
 - Built around a bunch of old suburban  houses
 - Prospecting company has BIG TEX in center
-- Surrounded by Tribes taking refuge from Caesar Raiders
 - Large building for Radioisotope thermoelectric generator
+- Todd intend to build around northern texas as the land is fertile and is perfect for farming. and intend to cultivate farming land for the benefit  the Town.
 
 
 
 # LOCATION
 
-### Nick Nack Shack
-Mick
+## Nick Nack Shack
+### Mick
+Conman, Sly, 
 
-### Sheriff Office
-Sheriff Tennessee
+## Sheriff Office
+### Sheriff Tennessee
 **Stubborn, Old-fashined, Cautious
 - protect Lonestar 
 
 ## Gun Store
 Weapons/ammo %150
 
-### Characters
-Gun Smith Bitch ( Amelia Cortez)
+### Gun Smith Bitch ( Amelia Cortez)
 Personality:**Standoffish, Misanthropic, Paranoid**
 
 
 ## Caravan Hub
 
-### Characters
-Sharon McDove
+### Sharon McDove
 Personality:**Action-oriented, Depressed, Blunt, Moody**
 Her husband died 3 year ago and she goes to drink on their anniversary. 
 
-Emily Palmer
+### Emily Palmer
 Personality:**Anxious, Shy, Reclusive**
 
 
 ## Saloon
 
-### Characters
-Wyatt Moore
+### Wyatt Moore
 Personality:**Honest, Calm, and Friendly**
 
 
 ## General Store 
 Food/Water %200
-### Characters
-Jacob Teller
+### Jacob Teller
 Personality: **Easygoing, Good-natured, Reliable
 
 ## Doctor Office
 Medical %200
-### Characters
-Grace Monroe
+### Grace Monroe
 Personality: **Colorful, Airy, Zany
 
 ## Prospecting company
 
-### Characters
-Kibble
-Personality: **Sarcastic, Whimsical, Carefree
-
-Bryce Clear Water
+### Bryce Clear Water
 Personality: **
 
 ## Mechanic Shop
 
-### Characters
-Oliver Sparkie
+### Oliver Sparkie
 Personality: **Adventurous, Creative, Careless
 
 

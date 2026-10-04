@@ -4,4 +4,4 @@ draft: true
 tags:
   - LOCATION
 ---
-- Vault 97 is a isolationist vault containing advance machining technology
+Vault 97 is a vault that recently open to the world around 1 year ago. meant to be a vault to return life to the wasteland. Containing advance machining technology and state of the art manufactories 

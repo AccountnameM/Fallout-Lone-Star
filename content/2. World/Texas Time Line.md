@@ -15,3 +15,10 @@ The remnant of the master army, led by **Attis**, moves into Texas to establish 
 
 
 # 2165
+The Brotherhood arrives at Texas and Begins hunting down the remnant of the Master's army.
+The Texas brotherhood began a campaign eradicates all of the supermutant taking refuge in Austin .
+# 2170
+
+
+# 2300
+Current Year
