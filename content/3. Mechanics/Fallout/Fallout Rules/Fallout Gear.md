@@ -60,7 +60,7 @@ Weights are rounded up to the nearest 1/10th pound. Caps weigh .1lb for 5.
     <td>2d6 AP1</td>
     <td>1</td>
     <td>13</td>
-    <td>d4</td>
+    <td>d6</td>
     <td>2</td>
     <td>$80</td>
   </tr>
