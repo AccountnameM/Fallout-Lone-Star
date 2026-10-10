@@ -438,6 +438,8 @@ Weights are rounded up to the nearest 1/10th pound. Caps weigh .1lb for 5.
 </tbody></table>
 
 # ENERGY WEAPONS
+
+## LASER
 All lasers have the following effects;
 **Cauterize**; Anyone Incapacitated adds +2 to VIG to avoid Bleeding Out
 **Recoil**; All Lasers ignore recoil.
@@ -495,7 +497,7 @@ Notes; Energy Cells cost $20 and weigh .5lbs for 50 shots.
 </tbody>
 </table>
 
-# PLASMA
+## PLASMA
 All Plasma weapons are Heavy Weapons that affect least-armored area and may catch target on fire.
 
 Micro Fusion Cells cost $30 and weigh 1lb for 10 shots
