@@ -1,7 +1,7 @@
 ---
 draft: false
 ---
-Attributes: Agility d6, Smarts d4-2, Spirit d6, Strength d12, Vigor d8
+Attributes: Agility d6, Smarts d4-2, Spirit d6, Strength d12+1, Vigor d8
 
 Skills: Athletics d6, Common Knowledge d4, Fighting d12, Intimidation d10, Notice d4, Persuasion d4, Stealth d4
 
@@ -22,3 +22,4 @@ Edges: [[Fallout Edges#Thick Skin (Racial)|Thick Skin]], [[Brawler]], [[Sweep]]
 | Strength d12                                                                                                                                                                                                                                                                                                                                                                                    | Novice 1    |
 | [[Sweep]]                                                                                                                                                                                                                                                                                                                                                                                       | Novice 2    |
 | Persuasion d6, Taunt d4                                                                                                                                                                                                                                                                                                                                                                         | Novice 3    |
+| Strength d12+1                                                                                                                                                                                                                                                                                                                                                                                  | Seasoned 1  |
