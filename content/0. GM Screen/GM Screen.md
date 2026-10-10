@@ -42,11 +42,8 @@
 
 >[!info]- Rules
 >[[Rules#Trait Rolls]]
->
 >[[Rules#Bennies]]
->
 >[[Rules#Combat]]
->
 >[[Rules#Healing]]
 
 >[!info]- Situational Rules
